@@ -7,3 +7,5 @@ By building software and helping others to do the same, we have come to value:
 - **Adopting best practices** over status quo
 
 That is, while there is value in the items on the right, we value the items on the left more.
+
+[9 Principles of great Developer Experience](http://developerexperiencemanifesto.org/principles)
