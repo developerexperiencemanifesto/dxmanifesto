@@ -6,4 +6,6 @@ By building software and helping others to do the same, we have come to value:
 - **Sustainable development pace** over constant crunch time
 - **Adopting best practices** over status quo
 
-That is, while there is value in the items on the right, we value the items on the left more.
+That is, while there is value in all the items, there is more value in the items written in bold.
+
+[9 Principles of great Developer Experience](/principles)
