@@ -8,4 +8,4 @@ By building software and helping others to do the same, we have come to value:
 
 That is, while there is value in all the items, there is more value in the items written in bold.
 
-[9 Principles of great Developer Experience](https://developerexperiencemanifesto.org/principles)
+[9 Principles of great Developer Experience](/principles)
