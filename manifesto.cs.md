@@ -1,5 +1,5 @@
 Pouze šťastní vývojáři vytvářejí vyjímečné produkty.
-Vlastním vývojem a pomáháním ostatním při implementaci aplikací jsme dospěli k těmto hodnotám:
+Tvorbou softwaru pro nás a pro ostatní jsme dospěli k těmto hodnotám:
 
 - **Automatizace opakujících se úkolů** před manuální prací
 - **Standardní používání nástrojů** před nadměrnými konfiguracemi
