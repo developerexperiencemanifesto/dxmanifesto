@@ -1,4 +1,4 @@
-Pouze šťastní vývojáři vytvářejí vyjímečné produkty.
+Pouze šťastní vývojáři dokáží vytvořit výjimečné produkty.
 Tvorbou softwaru pro nás a pro ostatní jsme dospěli k těmto hodnotám:
 
 - **Automatizace opakujících se úkolů** před manuální prací
