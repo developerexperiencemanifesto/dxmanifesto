@@ -1,11 +1,11 @@
-Pouze šťastní vývojáři dokáží vytvořit výjimečné produkty.
-Tvorbou softwaru pro nás a pro ostatní jsme dospěli k těmto hodnotám:
+# Be a Hero
 
-- **Automatizace opakujících se úkolů** před manuální prací
-- **Standardní používání nástrojů** před nadměrnými konfiguracemi
-- **Dostatečný klid na vývoj** před konstantním tlakem na termíny
-- **Přijímání nejlepších postupů** před dlouho zaběhlými praktikami
+Nebuď jeden z davu. Staň se vývojářským hrdinou!
 
-Všechny části zmíněných přístupů dávají smysl, ale ty zvýrazněné přináší hodnotu.
+- **Automatizuj opakující se úkoly** a vyhni se rutinní manuální práci
+- **Používej standardizované nástroje** místo nadměrné konfigurace
+- **Dopřej si dostatečný klid na vývoj** a nenech se tlačit do nesmyslných
+  termínů
+- **Přijmi ty nejlepší postupy** a nezabředni do zastaralých praktik
 
 [9 principů pro skvělou Developer Experience](/principles)
