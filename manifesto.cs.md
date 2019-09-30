@@ -1,4 +1,3 @@
-# Be a Hero
 
 Nebuď jeden z davu. Buď zkušeným vývojářem!
 
