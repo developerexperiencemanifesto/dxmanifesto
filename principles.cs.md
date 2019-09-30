@@ -9,7 +9,7 @@
 5. Využívej běžně používaná řešení pro řízení vývoje, infrastruktury a CI/CD.
    Nepoužívej proprietární řešení, pokud nejsou nutné pro vývoj produktu.
 6. Zaměř se na častý refaktoring, obnovu nástrojů a způsobů, jak pracuješ.
-7. Vytvoř důvěru v to, co buduješ. Přijmi postupy pro zvýšení kvality kódu a
+7. Neustále zvyšuj kvalitu svého kódu a přidávej relevantní testy. Vytváříš tím důvěru ve svůj kód.
    pokrytí testy.
 8. Udržuj dokumentaci aktuální a ve formátech, které vyhovují vývojářům.
 9. Vytvoř prostředí, ve kterém se jednotlivci nebojí převzít zodpovědnost.
