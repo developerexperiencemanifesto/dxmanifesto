@@ -11,4 +11,4 @@
 6. Zaměř se na častý refaktoring, obnovu nástrojů a způsobů, jak pracuješ.
 7. Neustále zvyšuj kvalitu svého kódu a přidávej relevantní testy. Vytváříš tím důvěru ve svůj kód.
 8. Dokumentuj a sdílej tak své know-how s ostatními vývojáři.
-9. Vytvoř prostředí, ve kterém se jednotlivci nebojí převzít zodpovědnost.
+9. Sdílej zodpovědnost, podporuj k ní své okolí a vytvářej tak okolo sebe silný tým.
