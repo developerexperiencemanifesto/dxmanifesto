@@ -1,6 +1,6 @@
 # Be a Hero
 
-Nebuď jeden z davu. Staň se vývojářským hrdinou!
+Nebuď jeden z davu. Buď zkušeným vývojářem!
 
 - **Automatizuj opakující se úkoly** a vyhni se rutinní manuální práci
 - **Používej standardizované nástroje** místo nadměrné konfigurace
