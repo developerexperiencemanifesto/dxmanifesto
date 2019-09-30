@@ -10,5 +10,5 @@
    Nepoužívej proprietární řešení, pokud nejsou nutné pro vývoj produktu.
 6. Zaměř se na častý refaktoring, obnovu nástrojů a způsobů, jak pracuješ.
 7. Neustále zvyšuj kvalitu svého kódu a přidávej relevantní testy. Vytváříš tím důvěru ve svůj kód.
-8. Udržuj dokumentaci aktuální a ve formátech, které vyhovují vývojářům.
+8. Dokumentuj a sdílej tak své know-how s ostatními vývojáři.
 9. Vytvoř prostředí, ve kterém se jednotlivci nebojí převzít zodpovědnost.
