@@ -1,11 +1,10 @@
-## 9 Principles of great Developer Experience
+## 8 Principles of great Developer Experience
 
-1. Great developer experience enables and embraces [agile principles](https://agilemanifesto.org/).
-2. Strive to automate repetitive or error-prone tasks.
-3. Aim for short feedback loops.
-4. Use industry wide code style conventions to minimise cognitive load on your developers.
-5. Use widely adopted solution for project management, infrastructure and CI/CD pipeline. Do not try to reinvent wheel and build it yourself unless it is a key defining factor of the software you are building.
-6. Periodically dedicate time to refactor, update tools and the way you work.
-7. Establish trust in what you are building by adopting code quality practices such as code reviews and test coverage.
-8. Keep developer documentation up to date in a format that developers prefer.
-9. Create conditions in which individuals are encouraged to take responsibility.
+1. Embrace the principles of [agile development](https://agilemanifesto.org/)
+2. Automate the repetitive and error-prone tasks
+3. Focus on short feedback loops
+4. Adopt the industry wide code style conventions & solutions
+5. Avoid reinventing the wheel in your solutions
+6. Update your tools, refactor your code, and revision workflow periodically
+7. Adopt code quality practices to establish trust
+8. Encourage individuals to take up responsibility by providing the right conditions
