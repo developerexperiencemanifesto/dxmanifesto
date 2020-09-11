@@ -7,4 +7,4 @@ The creation of exceptional software solutions will firstly require satisfied de
 
 We do not deny the value of other principles, however, we have come to value the above mentioned points with a significantly stronger emphasis.
 
-[The 8 Principles of great Developer Experience](/principles)
+[The 9 Principles of great Developer Experience](/principles)
