@@ -1,11 +1,10 @@
-Happy developers are necessary for creating exceptional software.
-By building software and helping others to do the same, we have come to value:
+The creation of exceptional software solutions will firstly require satisfied developers. Through our own journey of building software and helping others to achieve the same goal, we have concluded that the following 4 principles should lie at the core of the Developer Experience:
 
-- **Automation of repetitive tasks** over manual grind
-- **Convention in tooling** over tooling configuration
-- **Sustainable development pace** over constant crunch time
-- **Adopting best practices** over status quo
+- **Automate** the repetitive tasks
+- **Conventionalise** the workflow through tooling
+- **Sustain** the development pace consistently
+- **Adopt** the industry wide best practices
 
-That is, while there is value in all the items, there is more value in the items written in bold.
+We do not deny the value of other principles, however, we have come to value the above mentioned points with a significantly stronger emphasis.
 
-[9 Principles of great Developer Experience](/principles)
+[The 9 Principles of great Developer Experience](/principles)
