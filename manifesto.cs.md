@@ -1,11 +1,10 @@
-Pouze šťastní vývojáři dokáží vytvořit výjimečné produkty.
-Tvorbou softwaru pro nás a pro ostatní jsme dospěli k těmto hodnotám:
+Díky vlastním zkušenostem s budováním softwaru a pomocí ostatním jsme zjistili, co by mělo být jádrem Developer Experience. Jedná se o 4 následující principy:
 
-- **Automatizace opakujících se úkolů** před manuální prací
-- **Standardní používání nástrojů** před nadměrnými konfiguracemi
-- **Dostatečný klid na vývoj** před konstantním tlakem na termíny
-- **Přijímání nejlepších postupů** před dlouho zaběhlými praktikami
+- **Automatizujte** opakující se úkoly
+- **Sjednoťte** pracovní postupy díky vhodným nástrojům
+- **Udržujte** konzistentní tempo vývoje
+- **Aplikujte** osvědčené postupy napříč celým odvětvím
 
-Všechny části zmíněných přístupů dávají smysl, ale ty zvýrazněné přináší hodnotu.
+Nepopíráme hodnotu jiných principů, výše uvedené body však považujeme za velmi důležité.
 
-[9 principů pro skvělou Developer Experience](/principles)
+[9 principů skvělé Developer Experience](/principles)
